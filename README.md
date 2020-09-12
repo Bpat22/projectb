@@ -1,2 +1,1 @@
-# projectb
-Remote Repository Command Line
+#projectb's README
